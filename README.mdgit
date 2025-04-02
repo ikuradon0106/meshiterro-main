@@ -1,0 +1,1 @@
+# meshiterro-main initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin git@github.com:ikuradon0106/meshiterro-main.gitgit push -u origin main
